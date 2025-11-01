@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Simple Chatbot",
+  "description": "A simple and elegant chatbot interface powered by the Gemini API. Engage in a seamless conversation with an AI, with a clean UI that displays the chat history.",
+  "requestFramePermissions": []
+}
